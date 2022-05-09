@@ -41,7 +41,7 @@ Press Enter
 
 ## Link to YouTube Video (Day32):
 
-https://www.youtube.com/watch?v=KPesyRp8qqo
+https://youtu.be/_xRv-3FWyLE
 
 ## All Days List:
 
