@@ -2,7 +2,7 @@
 
 ## Day 33
 
-ESP8266 Unit Testing with Unity.
+ESP8266 Unit Testing with GoogleTest.
 
 Code from [ESP8266 Unit Testing - Part 2/2: Unity Test Framework - Day 33 of #100DaysOfCode​ in IoT](https://youtu.be/_xRv-3FWyLE) YouTube video.
 
@@ -41,7 +41,7 @@ Press Enter
 
 ## Link to YouTube Video (Day32):
 
-https://www.youtube.com/watch?v=KPesyRp8qqo
+https://youtu.be/_xRv-3FWyLE
 
 ## All Days List:
 
